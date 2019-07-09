@@ -1,0 +1,8 @@
+intro-to-pytorch/Cat_Dog_data
+.idea
+DS_Store
+~*.pyc
+__pycache__
+
+.ipynb_checkpoints/
+notebooks/
